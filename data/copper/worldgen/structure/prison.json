@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": "#minecraft:has_structure/trial_chambers",
+  "step": "underground_structures",
+  "terrain_adaptation": "none",
+  "spawn_overrides": {},
+  "start_pool": "copper:prison",
+  "size": 1,
+  "start_height": {
+    "absolute": -20
+  },
+  "max_distance_from_center": 1,
+  "use_expansion_hack": false
+}

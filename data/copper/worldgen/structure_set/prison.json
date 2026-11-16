@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "copper:prison",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 22266,
+    "spacing": 30,
+    "separation": 15
+  }
+}
